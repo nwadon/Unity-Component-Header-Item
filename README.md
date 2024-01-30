@@ -1,5 +1,5 @@
 # Unity-Component-Header-Item
-![](https://imgur.com/a/ct62mJC)
+![](https://imgur.com/a/ct62mJC.jpg)
 Unity资源商店地址：https://assetstore.unity.com/packages/tools/utilities/component-header-item-243191
 
 # 功能
